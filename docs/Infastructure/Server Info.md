@@ -15,7 +15,7 @@ For hosting, the domain is through namecheap and the routing is done via AWS Rou
 ## Docker
 
 The forum leverages the build at docker/discourse
-  - https://github.com/discourse/discourse_docker
+  - [docker/discourse](https://github.com/discourse/discourse_docker)
 
 You will find the code in `/var/discourse`
 
