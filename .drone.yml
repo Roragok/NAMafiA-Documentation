@@ -8,7 +8,6 @@ pipeline:
     key_path: /root/ssh/roragok.pem
     port: 22
     script:
-      - sudo su
       - cd /var/www/services/notes
       - git pull origin master # update to latest code
       - git push origin master
