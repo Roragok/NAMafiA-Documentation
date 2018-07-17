@@ -5,7 +5,7 @@ pipeline:
     username: ec2-user
     volumes:
       - /home/ec2-user/.ssh/roragok.pem:/root/ssh/roragok.pem
-    key_path: /root/ssh/NINDS-shared-bastion.pem
+    key_path: /root/ssh/roragok.pem
     port: 22
     script:
       - cd /var/www/services/notes
