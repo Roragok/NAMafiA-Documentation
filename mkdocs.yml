@@ -1,0 +1,4 @@
+site_name: NAMafiA Documentation
+pages:
+    - Home: README.md
+theme: readthedocs
