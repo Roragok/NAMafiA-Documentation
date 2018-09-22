@@ -15,11 +15,7 @@ The rules in this section are more for the host to set up a structured game.
 
 
 ## Player Rules
-1. You may not discuss any active mafia game outside the game thread, without the express permission of the Host.  Depending on the severity you will be mod killed and potentially banned from future games. This includes but is not limited to:
-
-> the forum itself, private messages, skype, discord, you get the idea
-
-The exceptions would be mafia or mason chat that the host has setup, and is aware of.
+1. You may not discuss any active mafia game outside the game thread, without the express permission of the Host.  Depending on the severity you will be mod killed and potentially banned from future games. This includes but is not limited to: `the forum itself, private messages, skype, discord, you get the idea`
 
 2. When voting to lynch a player, you must place the lynch in bold for it to count.  A lynch not bolded will not be counted. Do not use bold text unless you are voting
 
