@@ -13,15 +13,26 @@ The rules in this section are more for the host to set up a structured game.
 
 2. Night Action Resolution will be resolved in this manner: [Night Action Orderr](https://wiki.mafiascum.net/index.php?title=Natural_Action_Resolution/Normal_Game).
 
+3. At minimum the host is required to display the Vanilla Town(or equivalent) format PM publicly in the threads opening post.
 
 ## Player Rules
-1. You may not discuss any active mafia game outside the game thread, without the express permission of the Host.  Depending on the severity you will be mod killed and potentially banned from future games. This includes but is not limited to: `the forum itself, private messages, skype, discord, you get the idea`
+These items are considered our only enforced rules for players.  You will be warned, banned or mod killed depending on the severity of the infraction. This is up to the host on a game by game basis, but to be banned it must be reviewed by a moderator.
 
-2. When voting to lynch a player, you must place the lynch in bold for it to count.  A lynch not bolded will not be counted. Do not use bold text unless you are voting
+1. Do not discuss any active mafia game outside the game thread, without the express permission of the Host. This includes but is not limited to: `the forum itself, private messages, skype, discord, you get the idea`
 
-3. There is no talking at night, period. Dead people cannot talk, period. If you break these rules, you will be banned from the next mafia game.
+2. When voting to lynch a player, you must place the lynch in bold for it to count.  A lynch not bolded will not be counted.
+
+3. There is no talking at night, period. Dead people cannot talk, period.
 
 4. The host may change any rule in the game.  If that is the case, the host must specify the changed rules.
+
+
+## Player Etiquette
+These are items that are not against any rules, but are highly recommended.  They make the game thread clean to read and make it welcoming to new players.
+
+1. Do not use bold font unless you are lynching
+2. Do not use colored font unless you are the host.
+3. Refer to players by their forum name to not confuse the host or new players.
 
 
 ## Game Guidelines
