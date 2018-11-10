@@ -1,4 +1,4 @@
-# Forum Mafia Rules
+teammates# Forum Mafia Rules
 
 Hello there! Welcome to the world of Forum Mafia!
 
@@ -15,16 +15,48 @@ The rules in this section are more for the host to set up a structured game.
 
 3. At minimum the host is required to display the Vanilla Town(or equivalent) format PM publicly in the threads opening post.
 
+4. A Private Message from a player must be answered in the game thread anonymously, given that it should be answered.  A host is on no ones team and should give no advantage to either side.
+
 ## Player Rules
 These items are considered our only enforced rules for players.  You will be warned, banned or mod killed depending on the severity of the infraction. This is up to the host on a game by game basis, but to be banned it must be reviewed by a moderator.
 
 1. Do not discuss any active mafia game outside the game thread, without the express permission of the Host. This includes but is not limited to: `the forum itself, private messages, skype, discord, you get the idea`
 
-2. When voting to lynch a player, you must place the lynch in bold for it to count.  A lynch not bolded will not be counted.
+2. A player cannot edit their post. (working on disabling this still)
 
 3. There is no talking at night, period. Dead people cannot talk, period.
 
 4. The host may change any rule in the game.  If that is the case, the host must specify the changed rules.
+
+5. A Private Message or Chat is private.  You may not openly discuss them without prior approval of the game host.
+
+6. A Player should always play to their win condition to the best of their ability.  You are still able to forfeit, however this does not let you throw the game on purpose.  
+
+  Acceptable:
+  * You are last mafia and you are outed.  You can forfeit by PM'ing the host and not finishing the day.
+
+  Unacceptable:
+  * Publicly forfeiting and giving up because you don't like your teammates.
+
+## Player Penalties - The Tribunal
+If a player breaks an above rule, the host should be privately notified immediately.  Depending on the severity of the infraction a few steps from the host can be taken.  It is important to note that intent is just as important as the violated rule.
+
+Warn-able Offense:
+* An accident or slip of the tongue that violates an above rule that is non game breaking
+
+Mod Killed(Zeus'd):
+* Intentionally violating an above rule.
+* Warning a player twice in a game
+
+Tribunal
+* Game Ruining - intentionally ruining a game by violating an above rule. (i.e game cannot continue)
+* Repeated Mod Killing
+
+The Tribunal will present the grievances against the offender and he will be judged by a jury of his peers.  A poll will be opened whether the user is guilty or innocent.
+
+- First time offense - 3 game suspension
+- Second time offense - 5 game suspension
+- Third time - permanent game ban.
 
 
 ## Player Etiquette
