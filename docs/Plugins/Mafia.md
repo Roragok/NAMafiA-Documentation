@@ -1,3 +1,0 @@
-# Mafia Plugins
-
-TODO
