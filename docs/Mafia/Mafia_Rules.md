@@ -9,7 +9,7 @@ What follows is a list of rules to add structure to our Mafia games.
 ## Host Rules
 The rules in this section are more for the host to set up a structured game.
 
-1. Roles will be decided after sign-ups. Each role is guaranteed to be determined randomly. The host will assign roles by giving each person a number and using [random.org](random.org).  If you get a role you don’t like, too bad.  ***TODO*** **Working on an app that will live on mafia.namafia.com that will facilitate this process.**
+1. Roles will be decided after sign-ups. Each role is guaranteed to be determined randomly. The host will assign roles by giving each person a number and using [random.org](https://random.org).  If you get a role you don’t like, too bad.  ***TODO*** **Working on an app that will live on mafia.namafia.com that will facilitate this process.**
 
 2. Night Action Resolution will be resolved in this manner: [Night Action Orderr](https://wiki.mafiascum.net/index.php?title=Natural_Action_Resolution/Normal_Game).
 
